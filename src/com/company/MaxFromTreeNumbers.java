@@ -35,7 +35,7 @@ public class MaxFromTreeNumbers {
 
     MaxFromTreeNumbers maxFromTreeNumbers = new MaxFromTreeNumbers();
       //  int i = maxFromTreeNumbers.MaxNumber();
-       int g = maxFromTreeNumbers.maxNumber(4,4,3);
+       int g = maxFromTreeNumbers.maxNumber(4,4,33);
         System.out.println("Max value  "+g);
 
 
